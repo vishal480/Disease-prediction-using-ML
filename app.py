@@ -1,3 +1,5 @@
+# The project is deployed in heroku : https://multidisease-prediction-system.herokuapp.com
+
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
